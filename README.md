@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Alex%20👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Chibbit%20👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 <!-- Animated Subtitle -->
 <p align="center">
@@ -65,7 +65,7 @@
 > *"Code is like humor. When you have to explain it, it's bad."* — **Cory House**
 
 ```typescript
-const alex = {
+const chibbit = {
   location: "Sydney, Australia 🇦🇺",
   currentlyWorking: "A lot of awesome stuff (ask me!)",
   learning: ["Python", "Web Development", "GDScript"],
@@ -394,7 +394,7 @@ AWS          ████████████░░░░░░░░   60%
 
 ### ✨ Thanks for stopping by!
 
-**Built with ❤️ by Alex** · Based in Sydney, Australia 🇦🇺
+**Built with ❤️ by Chibbit** · Based in Sydney, Australia 🇦🇺
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
