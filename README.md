@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hey,%20I'm%20Alex%20👋&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20digital%20experiences%20that%20matter&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hello%20There!!%20👋&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=I'm%20a%20chibbit.%20I%20can%20code.%20Yay!&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 
 <br/>
 
 <!-- Glowing Avatar/Logo Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Full-Stack+Developer+%7C+Game+Creator;%E2%9C%A8+Open-Source+Enthusiast+%7C+Tech+Explorer;%F0%9F%8E%AE+Building+Cool+Stuff+in+Sydney+%F0%9F%87%A6%F0%9F%87%BA">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Full-Stack+Developer+%7C+Game+Creator;%E2%9C%A8+Open-Source+Enthusiast+%7C+Tech+Explorer;%F0%9F%8E%AE+Building+Cool+Stuff+in+Sydney+%F0%9F%87%A6%F0%9F%87%BA" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Developer%20|%20Explorer%20|%20Creator">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Developer%20|%20Explorer%20|%20Creator" alt="Typing SVG" />
 </picture>
 
 <br/>
