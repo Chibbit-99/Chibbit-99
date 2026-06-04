@@ -15,16 +15,16 @@
 
 <!-- Animated Badges with Hover Effects -->
 <p align="center">
-  <a href="https://simplified-games.github.io/app">
+  <a href="https://github.com/Chibbit-99">
     <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-Visit%20Site-7c3aed?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/simplified-games">
+  <a href="https://github.com/Chibbit-99">
     <img src="https://custom-icon-badges.demolab.com/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:simplifiedgroup10@gmail.com">
+  <a href="mailto:chibbit99@gmail.com">
     <img src="https://custom-icon-badges.demolab.com/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=mail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://simplified-games.github.io/nocoffeeplease">
+  <a href="https://github.com/Chibbit-99">
     <img src="https://custom-icon-badges.demolab.com/badge/Coffee-Support-FFDD00?style=for-the-badge&logo=coffee&logoColor=black" alt="Coffee" />
   </a>
 </p>
@@ -39,24 +39,20 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-
-
 </div>
-
----
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Stats Dashboard
 
 <div align="center">
 
 <!-- Animated Stats Cards -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=simplified-games&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=E0E7FF&border_radius=15&include_all_commits=true&count_private=true&ring_color=A78BFA" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=simplified-games&theme=radical&hide_border=true&border_radius=15&background=0D1117&stroke=F85D7F&ring=A78BFA&fire=F8D866&currStreakLabel=F85D7F&sideLabels=A78BFA&currStreakNum=E0E7FF&sideNums=E0E7FF" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chibbit-99&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=E0E7FF&border_radius=15&include_all_commits=true&count_private=true&ring_color=A78BFA" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=chibbit-99&theme=radical&hide_border=true&border_radius=15&background=0D1117&stroke=F85D7F&ring=A78BFA&fire=F8D866&currStreakLabel=F85D7F&sideLabels=A78BFA&currStreakNum=E0E7FF&sideNums=E0E7FF" alt="GitHub Streak" />
 
 <!-- Metrics Dashboard -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simplified-games&theme=radical">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simplified-games&theme=radical" width="98%" alt="Profile Summary"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chibbit-99&theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chibbit-99&theme=radical" width="98%" alt="Profile Summary"/>
 </picture>
 
 <!-- Quick Stats Grid -->
@@ -99,39 +95,39 @@
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="50"/>
 <br/>
-<b>☕ Coffee Addict</b>
+<b>☕ I don't like coffee</b>
 <br/>
-<sub>Average 4 cups/day</sub>
+<sub>Tea is better</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="50"/>
 <br/>
-<b>🎮 Gamer at Heart</b>
+<b>🎮 Game Dev</b>
 <br/>
-<sub>Love Metroidvanias!</sub>
+<sub>I'm better at coding than playing</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Night%20with%20Stars.png" width="50"/>
 <br/>
 <b>🌙 Night Owl</b>
 <br/>
-<sub>Code best after 10 PM</sub>
+<sub>Its fun to code in the dead of the night...</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="50"/>
 <br/>
-<b>🤓 Tech Enthusiast</b>
+<b>🤓 LLM Enthusiast</b>
 <br/>
-<sub>Love trying new frameworks</sub>
+<sub>Love exploring AI</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Artist.png" width="50"/>
 <br/>
 <b>🎨 Design Lover</b>
 <br/>
-<sub>UX matters to me</sub>
+<sub>UX is annoying but important</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" width="50"/>
